@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra me conhecer melhor, me sega nas redes abaixo!
+### Pra contato, me siga nas redes abaixo!
  
 <div> 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
